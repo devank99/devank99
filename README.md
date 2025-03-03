@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Ingleappu79@gmail.com**
   
-- Resume - 
+- Resume - https://github.com/devank99/devank99/blob/main/Devank_Ingle_CV.pdf
 
 
 ##
