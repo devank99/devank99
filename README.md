@@ -15,8 +15,7 @@
 ##
 
 ### 🧮 Skill Set:
-- 🐍 Python
-- ⌨️ SQL
-- 🔢 Excel & Excel VBA
-- 📈 Tableau 
-- 📝 SQL
+🐍 Python – Data analysis, automation, web scraping, and scripting
+⌨️ SQL – Writing complex queries, data extraction, and transformation
+🔢 Excel – Advanced formulas, pivot tables, and dynamic dashboards
+📈 Tableau – Interactive dashboards, data visualization, and storytelling with data
