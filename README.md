@@ -8,7 +8,7 @@
 - 📫 How to reach me **Ingleappu79@gmail.com**
   
 - 💼 Resume - https://github.com/devank99/devank99/blob/main/Devank_Ingle_CV.pdf
-- 📝 Portfolio - https://github.com/devank99/devank99/blob/main/Devank%20Ingle%20_CV.pdf
+- 📝 Portfolio - https://github.com/devank99/portfolio/deployments/github-pages
 
 
 ##
