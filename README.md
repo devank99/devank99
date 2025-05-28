@@ -5,7 +5,7 @@
 - 🌱 I’m also exploring Advanced Python concepts and key Python libraries such as Pandas, NumPy, and Matplotlib
 - 💬 I have hands-on experience with Python, SQL, and Tableau, and enjoy working on data-driven projects using these tools
 
-- 📫 How to reach me **Ingleappu79@gmail.com**
+- 📫 How to reach me **devank.s.ingle@gmail.com**
   
 - 💼 Resume - https://github.com/devank99/devank99/blob/main/Devank_Ingle_CV.pdf
 - 📝 Portfolio - https://github.com/devank99/portfolio/deployments/github-pages
