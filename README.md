@@ -1,7 +1,7 @@
 
 ## Hey! 👋 I'm devank and welcome to my GitHub profile!
 
-- 🔭 I’m currently learning Data Analytics, with a focus on Python and SQL
+- 🔭 I’m currently learning Analytics, with a focus on Python and SQL
 - 🌱 I’m also exploring Advanced Python concepts and key Python libraries such as Pandas, NumPy, and Matplotlib
 - 💬 I have hands-on experience with Python, SQL, and Tableau, and enjoy working on data-driven projects using these tools
 
